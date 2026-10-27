@@ -2,4 +2,4 @@
 
 This project simulates a consulting engagement for an e-commerce company seeking to improve profitability through customer analytics, inventory optimization and demand forecasting.
 
-The project combines Data Engineering, Analytics and Machine Learning using BigQuery, dbt, Docker, SQL, Python and Power BI.
+The project combines Data Engineering, Analytics and Machine Learning using BigQuery, dbt, SQL, Python and Power BI.
